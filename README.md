@@ -6,7 +6,9 @@ Bu repo [Kodluyoruz](https://academy.patika.dev/) Front-End Eğitiminde oluştur
 
 Öncelikle projeyi clonelayın git@github.com:aziz241/kodluyoruzilkrepo.git
 
-``` git clone git@github.com:aziz241/kodluyoruzilkrepo.git ```
+``` 
+git clone git@github.com:aziz241/kodluyoruzilkrepo.git
+ ```
 
 ## Usage
 
@@ -14,7 +16,8 @@ Projeyi cloneladıktan sonra visual studio code programında açınız.
 
 Linux için:
 
-``` cd kodluyoruzilkrepo
+``` 
+    cd kodluyoruzilkrepo
     code . 
 ```
 
